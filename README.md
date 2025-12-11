@@ -13,7 +13,7 @@ the Tickerplant (tick.q script) can also be run in batch mode, to initialise in 
 
 (3): Initialise RDB -> q rdb.q
 
-To save data to disk, and perform end of day functionality, run .u.endofday[] on the tickerplant
+To save data to disk, and perform end of day functionality, run .u.endofday[] on the tickerplant - this will create 'db' directory containing partitions
 
 (4): Initialise RTE -> q rte.q
 
