@@ -20,6 +20,8 @@
 /2005.10.10 zero latency
 
 
+
+
 "kdb+tick 2.8 2014.03.12"
 
 /q tick.q SRC [DST] [-p 5010] [-o h]
@@ -79,6 +81,7 @@ ts:{if[d<x;   / If current date is less than input date i.e
 
 
 // IMPORTANT NOTE: Tickerplant will behave different depending on the mode (tick or batch) ***********************
+
 
 
 // BATCH MODE code for tickerplant
