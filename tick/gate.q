@@ -1,3 +1,5 @@
+
+
 // Gateway
 
 // Opening port to RDB
@@ -14,6 +16,16 @@ h_rte: hopen 5610
 getTradeData:{[startD; endD; syms]
     
     }
+
+
+
+
+
+
+
+
+
+
 
 
 
